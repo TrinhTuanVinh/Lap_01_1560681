@@ -6,5 +6,5 @@
 # Điện thoại : 0944665642
 # Link facebook: [Phong Vân](https://www.facebook.com/profile.php?id=100009894609600)
 
-|*Thời gian*|**Tiết**|
-|-----------|--------|
+|Thời gian|Tiết|Thứ 2|Thứ 3|Thứ 4|Thứ 5|Thứ 6|Thứ 7|
+|---------|----||----|-----|-----|-----|-----|-----|
