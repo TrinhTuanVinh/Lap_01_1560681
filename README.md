@@ -10,3 +10,8 @@ Thời gian   | Tiết | Thứ 2 |  Thứ 3 | Thứ 4     | Thứ 5     | Thứ 
 9h30 - 12h00| 4-6 |TKHT Mạng  |PTUD_CSDL_2|PLĐC        |  **      |
 12h30- 15h00| 7-9 |
 15h30- 17h50| 10-12|LTWeb_2 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
